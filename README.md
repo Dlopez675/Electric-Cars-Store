@@ -4,5 +4,5 @@ Layout de Electric-Cars-Store con Media Queries
 
 ## Paginas Desplegadas
 
-Pagina Principal [https://dlopez675.github.io/Ecomerce/](https://dlopez675.github.io/Electric-Cars-Store/)
+Pagina Principal https://dlopez675.github.io/Electric-Cars-Store/
 
